@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20160212</version>
+			<version>20231013</version>
 		</dependency>
 		
 		<!-- test dependencies -->
@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <urlhttp://100.26.133.141:8081/repository/paypal-releases/</url>
+	      &lt;urlhttp://100.26.133.141:8081/repository/paypal-releases/
 	    </repository>
 	    
 	    <snapshotRepository>
